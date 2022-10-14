@@ -1,0 +1,15 @@
+lightning-bolts==0.4.0
+madgrad==1.1
+matplotlib==3.4.2
+numpy==1.21.2
+opencv-python==4.5.4.60
+pandas==1.2.3
+Pillow==8.4.0
+pytorch-lightning==1.5.5
+scipy==1.6.3
+SimpleITK==2.1.1
+torch==1.10.0
+torchmetrics==0.6.1
+torchvision==0.11.1
+tqdm==4.61.1
+wandb==0.12.7

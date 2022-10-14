@@ -1,0 +1,131 @@
+name,SEG1,SEG2,SEG3,SEG5,SEG6,SEG7,start_frame,end_frame,Fold
+ES0001_CH2_1,MI,MI,MI,non-MI,non-MI,non-MI,1,21,1
+ES000101_CH2_1,non-MI,non-MI,MI,non-MI,non-MI,non-MI,1,17,2
+ES000102_CH2_3,non-MI,non-MI,MI,MI,MI,non-MI,1,22,3
+ES000103_CH2_1,MI,MI,MI,non-MI,non-MI,non-MI,1,16,4
+ES000104_CH2_2,non-MI,non-MI,non-MI,MI,non-MI,non-MI,1,21,5
+ES000105_CH2_1,MI,MI,non-MI,non-MI,non-MI,non-MI,1,21,1
+ES000106_CH2_1,non-MI,non-MI,MI,MI,MI,MI,1,18,2
+ES000107_CH2_1,non-MI,non-MI,MI,MI,MI,non-MI,1,17,3
+ES000108_CH2_2,non-MI,non-MI,MI,MI,non-MI,non-MI,1,17,4
+ES000109_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,15,1
+ES00011_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,18,2
+ES000111_CH2_2,non-MI,MI,MI,MI,MI,non-MI,1,18,5
+ES000112_CH2_1,non-MI,non-MI,MI,MI,MI,non-MI,25,43,1
+ES000113_CH2_1,MI,MI,MI,MI,MI,MI,1,20,2
+ES000114_CH2_1,MI,MI,MI,MI,MI,MI,25,38,3
+ES000115_CH2_1,MI,MI,MI,MI,MI,MI,48,74,4
+ES000116_CH2_1,MI,MI,MI,MI,MI,MI,1,18,5
+ES000117_CH2_1,MI,MI,MI,MI,MI,MI,1,18,1
+ES00012_CH2_1,MI,MI,MI,MI,MI,MI,1,25,2
+ES000120_2CH_2,MI,MI,MI,non-MI,non-MI,non-MI,1,26,3
+ES000121_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,3
+ES000122_2CH_1,non-MI,non-MI,MI,MI,non-MI,non-MI,4,30,4
+ES000123_2CH_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,4
+ES000124_2CH_2,non-MI,non-MI,MI,MI,MI,MI,1,20,5
+ES000126_2CH_3,non-MI,non-MI,non-MI,MI,MI,non-MI,1,17,1
+ES000131_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,24,5
+ES000132_2CH_2,non-MI,non-MI,MI,MI,non-MI,non-MI,1,16,2
+ES000133_2CH_2,non-MI,non-MI,MI,MI,MI,MI,1,29,3
+ES000134_2CH_1,non-MI,non-MI,MI,MI,MI,MI,20,27,4
+ES000135_2CH_3,non-MI,non-MI,MI,MI,MI,MI,2,28,5
+ES000137_2CH_1,MI,MI,non-MI,non-MI,non-MI,non-MI,1,20,1
+ES000138_2CH_3,MI,MI,MI,MI,MI,MI,1,15,2
+ES000139_2CH_1,MI,MI,MI,non-MI,non-MI,non-MI,4,26,3
+ES00014_CH2_1,MI,MI,non-MI,non-MI,non-MI,non-MI,19,38,4
+ES000140_2CH_2,MI,MI,MI,MI,MI,MI,1,21,5
+ES000142_2CH_2,non-MI,non-MI,MI,MI,MI,MI,18,37,1
+ES000143_2CH_2,non-MI,non-MI,MI,MI,MI,non-MI,1,19,2
+ES000144_2CH_1,non-MI,non-MI,MI,MI,MI,non-MI,1,18,3
+ES000147_2CH_2,non-MI,non-MI,MI,MI,MI,MI,1,24,4
+ES000148_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,20,38,1
+ES00015_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,16,2
+ES000150_2CH_2,non-MI,non-MI,MI,MI,MI,MI,22,43,5
+ES000151_2CH_1,non-MI,non-MI,non-MI,MI,MI,non-MI,1,20,1
+ES000152_2CH_1,non-MI,non-MI,MI,MI,MI,non-MI,19,32,2
+ES00016_CH2_2,non-MI,non-MI,MI,MI,MI,MI,1,24,3
+ES00017_CH2_1,MI,MI,non-MI,non-MI,non-MI,non-MI,1,27,4
+ES00018_CH2_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,23,3
+ES00019_CH2_2,MI,MI,non-MI,non-MI,non-MI,non-MI,1,21,5
+ES0002_CH2_1,MI,MI,non-MI,non-MI,non-MI,non-MI,1,23,1
+ES00020_CH2_1,MI,MI,MI,MI,MI,MI,1,27,2
+ES00021_CH2_1,non-MI,non-MI,MI,MI,MI,MI,1,17,3
+ES00023_CH2_4,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,18,4
+ES00024_CH2_1,MI,MI,MI,MI,MI,MI,1,17,4
+ES00025_CH2_3,non-MI,non-MI,MI,MI,MI,MI,1,18,5
+ES00027_CH2_1,non-MI,non-MI,MI,MI,MI,non-MI,1,24,1
+ES00029_2CH_1,MI,MI,non-MI,non-MI,non-MI,non-MI,26,50,2
+ES0003_CH2_2,non-MI,non-MI,MI,MI,MI,MI,1,23,3
+ES00030_CH2_2,MI,MI,non-MI,non-MI,non-MI,non-MI,1,21,4
+ES00031_CH2_1,MI,MI,non-MI,non-MI,non-MI,non-MI,1,15,5
+ES00033_CH2_1,non-MI,non-MI,MI,MI,MI,MI,1,21,1
+ES00034_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,20,38,5
+ES00037_CH2_1,non-MI,non-MI,MI,MI,non-MI,non-MI,1,23,2
+ES00038_2CH_1,non-MI,non-MI,non-MI,MI,MI,MI,1,22,3
+ES00039_CH2_1,non-MI,non-MI,MI,MI,MI,MI,1,23,4
+ES0004_CH2_2,non-MI,non-MI,MI,MI,MI,MI,1,20,5
+ES00040_CH2_3,non-MI,non-MI,MI,MI,MI,MI,1,27,1
+ES00041_CH2_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,25,1
+ES00042_CH2_1,MI,MI,MI,non-MI,non-MI,non-MI,26,52,2
+ES00043_CH2_1,MI,MI,MI,non-MI,non-MI,non-MI,1,25,3
+ES00044_CH2_3,MI,MI,non-MI,non-MI,non-MI,non-MI,1,20,4
+ES00045_CH2_2,non-MI,non-MI,MI,MI,MI,non-MI,33,62,5
+ES00046_CH2_2,MI,MI,MI,non-MI,non-MI,non-MI,1,22,1
+ES00048_CH2_2,MI,MI,MI,non-MI,non-MI,non-MI,24,48,2
+ES00049_2CH_3,non-MI,MI,MI,non-MI,non-MI,non-MI,1,26,3
+ES00050_CH2_1,non-MI,non-MI,MI,MI,non-MI,non-MI,1,18,4
+ES0006_CH2_2,non-MI,non-MI,non-MI,MI,MI,MI,1,16,5
+ES0007_CH2_1,MI,MI,MI,non-MI,non-MI,non-MI,1,28,1
+ES0008_CH2_1,non-MI,non-MI,MI,MI,MI,MI,14,34,2
+ES0009_CH2_1,non-MI,non-MI,MI,MI,non-MI,non-MI,1,17,3
+ES000100 N_2CH_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,14,2
+ES000153 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,25,3
+ES000155 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,30,48,4
+ES000158 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,5
+ES000159 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,18,1
+ES000161 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,18,2
+ES000164 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,2,24,3
+ES000166 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,19,4
+ES000167 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,2,28,5
+ES000170 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,17,1
+ES000171 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,27,2
+ES000176 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,19,3
+ES000178 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,20,4
+ES000179 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,16,5
+ES000183 N_2CH_4,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,1
+ES000186 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,2
+ES000187 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,30,3
+ES000188 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,16,4
+ES000189 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,20,5
+ES000191 N_2CH_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,25,1
+ES000196 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,2
+ES000197 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,2,19,3
+ES000199 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,34,70,4
+ES000200 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,24,5
+ES000201 N_2CH_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,20,39,1
+ES00051 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,2
+ES00053 N_CH2_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,25,3
+ES00057 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,4
+ES00059 N_CH2_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,44,64,5
+ES00061 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,32,1
+ES00062 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,26,2
+ES00065 N_CH2_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,26,3
+ES00068 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,26,4
+ES00071 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,48,92,5
+ES00072 N_CH2_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,21,1
+ES00074 N_CH2_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,22,2
+ES00075 N_CH2_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,26,3
+ES00077 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,32,4
+ES00079 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,26,5
+ES00080 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,20,28,1
+ES00082 N_2CH_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,22,2
+ES00083 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,2,22,3
+ES00084 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,18,34,4
+ES00085 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,21,5
+ES00089 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,4,20,1
+ES00090 N_2CH_2,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,5,25,2
+ES00092 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,20,3
+ES00094 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,27,4
+ES00097 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,19,5
+ES00098 N_2CH_1,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,27,1
+ES00099 N_2CH_3,non-MI,non-MI,non-MI,non-MI,non-MI,non-MI,1,20,2
